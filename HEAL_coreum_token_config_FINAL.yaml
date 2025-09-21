@@ -1,0 +1,21 @@
+token:
+  name: "HEAL"
+  symbol: "HEAL"
+  subunit: "heal"
+  precision: 6
+  initial_amount: "100000000000000"
+features:
+  enabled: ["burning", "extension"]
+  disabled: ["minting", "freezing", "whitelisting", "block_smart_contract", "clawback"]
+  optional: ["ibc"]
+extension:
+  code_id: 001
+  label: "HEAL-EXT-001: Core Transfer Hook"
+artifacts:
+  image_solid_svg: "HEAL_FINAL_diamond_straight_solid.svg"
+  image_transparent_svg: "HEAL_FINAL_diamond_straight_transparent.svg"
+  metadata_json: "HEAL_token_metadata_FINAL.json"
+  sha256:
+    HEAL_FINAL_diamond_straight_solid.svg: "6ebb1f630bdc46a1384be3273657ff5860dde83d1b86ff876a4547d69bba4937"
+    HEAL_FINAL_diamond_straight_transparent.svg: "f5e49ac14bf30d93f27ac971e91a6f2cb4632a87be49f45e4f063051e15acece"
+    HEAL_token_metadata_FINAL.json: "7934e5a1e59fd06398ae75d2d74389a955709a89fa78fd89947e733983f768d5"

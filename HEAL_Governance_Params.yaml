@@ -1,0 +1,8 @@
+quorum_percent: 20
+vote_period_days: 7
+execution_delay_hours: 24
+voting_method: "token-weighted (optional quadratic transform)"
+bindings:
+  - code_id: 001
+    label: "HEAL-EXT-001: Core Transfer Hook"
+    status: "planned"

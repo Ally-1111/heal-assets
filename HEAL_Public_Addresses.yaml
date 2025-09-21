@@ -1,0 +1,23 @@
+token:
+  symbol: HEAL
+  address: "<coreum_token_address>"
+  decimals: 6
+dao:
+  address: "<dao_contract_address>"
+treasury:
+  multisig: "<multisig_address>"
+program_wallets:
+  airdrop: "<address>"
+  community: "<address>"
+  pay_it_forward: "<address>"
+  reserve: "<address>"
+docs:
+  metadata: "HEAL_token_metadata_FINAL.json"
+  config: "HEAL_coreum_token_config_FINAL.yaml"
+  appendix: "HEAL_Whitepaper_Appendix_TechSpec.md"
+  features_policy: "HEAL_Token_Features_and_Controls.md"
+visuals:
+  solid_svg: "HEAL_FINAL_diamond_straight_solid.svg"
+  solid_svg_sha256: "{sha_solid}"
+  transparent_svg: "HEAL_FINAL_diamond_straight_transparent.svg"
+  transparent_svg_sha256: "{sha_trans}"

@@ -1,0 +1,61 @@
+{
+  "name": "HEAL",
+  "symbol": "HEAL",
+  "description": "HEAL token mark: royal blue background with diamond-white ring and straight rays (rounded outer tips). Rays begin at the inner circle, no gap across the ring. Pure vector.",
+  "decimals": 6,
+  "image": "HEAL_FINAL_diamond_straight_solid.svg",
+  "image_sha256": "6ebb1f630bdc46a1384be3273657ff5860dde83d1b86ff876a4547d69bba4937",
+  "background_color": "0B3D91",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Royal Blue #0B3D91"
+    },
+    {
+      "trait_type": "Accent",
+      "value": "#F3F8FF (Diamond White)"
+    },
+    {
+      "trait_type": "Rays",
+      "value": "Straight bars, rounded tip, inner-start"
+    },
+    {
+      "trait_type": "Inner Radius",
+      "value": 144
+    },
+    {
+      "trait_type": "Outer Radius",
+      "value": 177
+    },
+    {
+      "trait_type": "Ring Thickness",
+      "value": 33
+    },
+    {
+      "trait_type": "Ray Thickness",
+      "value": 33
+    },
+    {
+      "trait_type": "Short Total Length",
+      "value": 210
+    },
+    {
+      "trait_type": "Long Total Length",
+      "value": 277
+    },
+    {
+      "trait_type": "Canvas",
+      "value": "1024\u00d71024, 45\u00b0 symmetry"
+    }
+  ],
+  "files": [
+    {
+      "name": "HEAL_FINAL_diamond_straight_solid.svg",
+      "sha256": "6ebb1f630bdc46a1384be3273657ff5860dde83d1b86ff876a4547d69bba4937"
+    },
+    {
+      "name": "HEAL_FINAL_diamond_straight_transparent.svg",
+      "sha256": "f5e49ac14bf30d93f27ac971e91a6f2cb4632a87be49f45e4f063051e15acece"
+    }
+  ]
+}

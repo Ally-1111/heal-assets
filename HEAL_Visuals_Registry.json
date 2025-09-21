@@ -1,0 +1,24 @@
+{
+  "background": "#0B3D91",
+  "accent": "#F3F8FF",
+  "geometry": {
+    "inner": 144,
+    "outer": 177,
+    "ring_thickness": 33,
+    "ray_thickness": 33,
+    "short_total": 210,
+    "long_total": 277,
+    "canvas": "1024x1024",
+    "symmetry": "45deg"
+  },
+  "files": {
+    "solid_svg": "HEAL_FINAL_diamond_straight_solid.svg",
+    "solid_svg_sha256": "6ebb1f630bdc46a1384be3273657ff5860dde83d1b86ff876a4547d69bba4937",
+    "transparent_svg": "HEAL_FINAL_diamond_straight_transparent.svg",
+    "transparent_svg_sha256": "f5e49ac14bf30d93f27ac971e91a6f2cb4632a87be49f45e4f063051e15acece",
+    "metadata_json": "HEAL_token_metadata_FINAL.json",
+    "metadata_json_sha256": "7934e5a1e59fd06398ae75d2d74389a955709a89fa78fd89947e733983f768d5",
+    "coreum_config_yaml": "HEAL_coreum_token_config_FINAL.yaml",
+    "coreum_config_yaml_sha256": "78ed05d7f6552e85928219bb90bf57bb490ec623d3bec99a3e9731abd4f34cb8"
+  }
+}
